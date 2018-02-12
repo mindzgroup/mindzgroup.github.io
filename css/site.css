@@ -6599,6 +6599,9 @@ h4 {
   background-repeat: no-repeat;
   background-size: cover;
 }
+header {
+  min-height: 673px;
+}
 .section-100 {
   min-height: 100vh;
 }
@@ -6639,7 +6642,7 @@ h4 {
   background-color: #fbb03b !important;
 }
 .section-gray {
-  background-color: #555555 !important;
+  background-color: #333333 !important;
   color: #eeeeee !important;
 }
 .section-light {
@@ -6770,5 +6773,8 @@ footer ul.link-list > li > a:hover {
   }
   .btn-giant {
     padding: 0 12px;
+  }
+  header {
+    min-height: 60vh;
   }
 }
