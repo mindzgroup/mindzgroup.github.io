@@ -1,0 +1,35 @@
+{
+  "name": "PayGlobal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Anant Anand Gupta",
+  "license": "ISC",
+  "devDependencies": {
+    "animate.css": "^3.5.2",
+    "bootstrap-less": "^3.3.8",
+    "browser-sync": "2.23.5",
+    "connect-history-api-fallback": "^1.5.0",
+    "connect-logger": "0.0.1",
+    "font-awesome": "^4.7.0",
+    "gulp": "^3.9.1",
+    "gulp-clean": "^0.4.0",
+    "gulp-clean-css": "3.9.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-header": "^2.0.1",
+    "gulp-less": "^3.4.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.1.0",
+    "gulp-uglify": "^3.0.0",
+    "gulp-util": "^3.0.8",
+    "jquery": "^3.3.1",
+    "jquery-easing": "0.0.1",
+    "pump": "^3.0.0",
+    "uglify-es": "^3.3.9",
+    "wowjs": "^1.1.3"
+  }
+}
